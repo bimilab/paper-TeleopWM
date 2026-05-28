@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "TeleopWM: A Real-Time Predictive World Model for Latency-Resilient Vision-Based Teleoperation"
+message: "If you use TeleopWM, please cite the paper."
+type: software
+authors:
+  - family-names: Khalil
+    given-names: Aws
+  - family-names: Kwon
+    given-names: Jaerock
+date-released: 2026-05-28
+repository-code: "https://github.com/bimilab/paper-TeleopWM"
+license: MIT
+abstract: "TeleopWM is a real-time predictive latent world model for latency-resilient vision-based teleoperation."
+url: "https://bimilab.github.io/paper-TeleopWM/"
